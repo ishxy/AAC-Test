@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YouCanRunSuccessfully</string>
+
+    <array name="data_text">
+        <item>times=1</item>
+        <item>times=2</item>
+        <item>times=3</item>
+        <item>times=4</item>
+        <item>times=5</item>
+        <item>times=6</item>
+        <item>times=7</item>
+        <item>times=8</item>
+        <item>times=9</item>
+    </array>
+
+    <array name="data_url">
+        <item>http://192.168.0.104:8080/img/23099FCA183E813091111A99E65C98D8.jpg</item>
+        <item>http://192.168.0.104:8080/img/7D35D1EA0083D7734CAA4AF548898FBF.jpeg</item>
+        <item>http://192.168.0.104:8080/img/16A7E21388871604909F1480C7540EFC.jpeg</item>
+        <item>http://192.168.0.104:8080/img/170EA763ACF019A9D986A62360479D8F.jpeg</item>
+        <item>http://192.168.0.104:8080/img/902BAD21EE718E6639B766EEE02F44EF.jpeg</item>
+        <item>http://192.168.0.104:8080/img/F04BD164ABC4735ECB9EA658797F6D05.jpeg</item>
+        <item>http://192.168.0.104:8080/img/EDFCCF101EC2B6DBD3218F5BCD052B24.png</item>
+        <item>http://192.168.0.104:8080/img/98E1D75FF75DD311E28C7215A7BF74E1.jpeg</item>
+        <item>http://192.168.0.104:8080/img/C56AB745D7ECBD714C6A0E96538807F6.jpeg</item>
+    </array>
+</resources>
